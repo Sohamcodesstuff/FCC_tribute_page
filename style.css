@@ -1,0 +1,82 @@
+main{
+    display:block;
+    background-color:royalblue;
+    width:100%;
+    margin: 10px 10px 5px 5px;
+    border-radius: 5px;
+
+}
+h1{
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 70px; 
+    color:gold;
+    padding-top: 10px;
+    
+}
+
+#description{
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    color:gold;
+    margin-bottom: 50px;
+
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 8px;
+    padding-left: 5%;
+    padding-right: 5%;
+    
+}
+#img-container{
+    border-radius: 5px;
+    padding-top:25px;
+    padding-left:10%;
+    padding-right:10%;
+    padding-bottom:20px;
+    background-color: aliceblue;
+    /* margin-left: 10px;
+    margin-right: 10px; */
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+#img-caption{
+    margin-top: 30px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 1px;
+    padding-left: auto;
+    padding-right: auto;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    color:gold;
+
+}
+li{
+    color:gold;
+    font-size: 20 px;
+    margin-bottom: 20px;
+    margin-left: 29%;
+    margin-top:40px;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+blockquote{
+    color:gold;
+    margin-top: 60px;
+    padding-left:18px;
+    padding-right:50px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
